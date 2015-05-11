@@ -14,3 +14,5 @@
 >> [Ownership, Lifetime에 대한 Article](http://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html)  
 >> [소유권이동 및 복사에 대한 Article](http://stackoverflow.com/questions/24253344/move-vs-copy-in-rust/24253573#24253573)  
 
+###### Rust 학습내용
+[[OwnerShip]]
