@@ -9,6 +9,7 @@
 ***
 
 ###### Rust 링크
+> [소개](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 > [타언어 비교 및 분석글](http://arthurtw.github.io/2014/12/21/rust-anti-sloppy-programming-language.html)  
 > [컨벤션](http://aturon.github.io/style/naming/README.html)  
 > [예제를 통한 학습](http://rustbyexample.com/vec.html)  
